@@ -1,4 +1,4 @@
-# 🔐 Cybersecurity Lab Setup (pfSense + Ubuntu + Kali)
+# Cybersecurity Lab Setup (pfSense + Ubuntu + Kali)
 
 ---
 
